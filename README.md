@@ -5,9 +5,8 @@
 -->
 
 
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on exciting data-driven projects
-- 💬 Ask me basics about front-end development.
+- 🌱 I’m currently learning Data Science.
+- 👯 I’m looking to collaborate on exciting data-driven projects.
 - 📫 How to reach me: rahulj444@example.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My name itself describes my qualities:
