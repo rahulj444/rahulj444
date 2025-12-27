@@ -5,7 +5,7 @@
 -->
 
 
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Data Analytics.
 - 📫 How to reach me: rahulj444@example.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My name itself describes my qualities:
